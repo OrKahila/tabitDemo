@@ -1,11 +1,7 @@
-# tabit
-
-A new Flutter project.
-
-## Getting Started
+# tabit demo project
 
 ### **Prerequisites**
-To run this project, you need to have:
+To run this project, you need to havse:
 1. **Flutter SDK** installed. You can follow the installation guide [here](https://docs.flutter.dev/get-started/install).
 2. **Android Studio** or **VS Code** as your IDE (optional but recommended).
 3. A device/emulator/simulator to run the app.
