@@ -1,11 +1,5 @@
 # tabit demo project
 
-### **Prerequisites**
-To run this project, you need to havse:
-1. **Flutter SDK** installed. You can follow the installation guide [here](https://docs.flutter.dev/get-started/install).
-2. **Android Studio** or **VS Code** as your IDE (optional but recommended).
-3. A device/emulator/simulator to run the app.
-
 ### **Setup Instructions**
 
 1. Clone the repository:
@@ -32,14 +26,7 @@ To run this project, you need to havse:
      ```bash
      flutter run -d ios
      ```
-   - For Web:
-     ```bash
-     flutter run -d chrome
-     ```
 
----
-
-## **Development Instructions**
 
 ### **Folder Structure**
 - `lib/`
